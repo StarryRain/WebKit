@@ -32,6 +32,7 @@
 #include "SharedBuffer.h"
 #include "TextResourceDecoder.h"
 
+// qy6
 namespace WebCore {
 
 CachedApplicationManifest::CachedApplicationManifest(CachedResourceRequest&& request, const PAL::SessionID& sessionID, const CookieJar* cookieJar)
